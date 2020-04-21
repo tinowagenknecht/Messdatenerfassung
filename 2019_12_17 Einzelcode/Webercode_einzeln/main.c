@@ -7,7 +7,7 @@
 #include "UART.h"
 #include "DiagnoseTest.h"
 
-//Ein Testkommentar f�r GitHub
+//Ein Testkommentar für GitHub
 // Ein zweiter Kommentar
 // Ein dritter Kommentar
 #define Faktor_ADC (4.999923706/65536)				// Faktor zur Umrechnung des 16 Bit Integer Wertes in die Eingangspannung 0 - 5 V
