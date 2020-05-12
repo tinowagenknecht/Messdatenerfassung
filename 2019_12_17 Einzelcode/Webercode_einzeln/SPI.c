@@ -1,6 +1,7 @@
 #include "main.h"
 #include "SPI.h"
 
+//Kommentar hinzugefügt!!!
 
 //Funktion: "SPI_init":
 //initialisiert die SPI-Schnittstelle des Controllers
